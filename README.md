@@ -18,7 +18,7 @@
 
 - [智谱ChatGLM3-6B](https://www.modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)
 
-- [ChatGPT-4o]
+- ChatGPT-4o
 
  
 
@@ -36,12 +36,17 @@
 
 ## 2 配置流程
 
+0. 配置虚拟环境（可选）
+    
+    本项目省略conda的下载和安装，具体操作见 [ANACONDA](https://www.anaconda.com/docs/main) 官网。
+    
 
 1. 进入命令行，本项目以linux操作系统的服务器为例：
 
    运行前需要配置环境。
-   ```bash
+   ```
    pip install -r requirement.txt
+   ```
 
 2. 下载对应的大模型
 
