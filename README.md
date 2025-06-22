@@ -18,6 +18,8 @@
 
 - [智谱ChatGLM3-6B](https://www.modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)
 
+- [ChatGPT-4o]
+
  
 
 **应用场景样例为：**
@@ -64,3 +66,7 @@
    ```
    python run.py
    ```
+   
+
+## 3 测试结果和分析
+见《AI横向对比分析-2356215-郑功灿》。
